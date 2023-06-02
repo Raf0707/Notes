@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/notes"
+        android:title="Notes"
+        android:icon="@drawable/baseline_menu_book_24"
+        app:cnb_iconColor="#53FA27" />
+
+    <item
+        android:id="@+id/reminder"
+        android:title="Reminder"
+        android:icon="@drawable/baseline_edit_24"
+        app:cnb_iconColor="#FDD01E" />
+
+    <item
+        android:id="@+id/shopping_list"
+        android:title="Shopping List"
+        android:icon="@drawable/baseline_format_list_bulleted_24"
+        app:cnb_iconColor="#FB62DB" />
+    <item
+        android:id="@+id/about_app"
+        android:title="About app"
+        android:icon="@drawable/ic_vector_info"
+        app:cnb_iconColor="#000000" />
+
+
+
+</menu>
